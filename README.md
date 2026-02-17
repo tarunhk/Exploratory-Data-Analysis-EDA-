@@ -31,7 +31,7 @@ The objective of this task is to analyze and understand the dataset by:
 ```bash
 pip3 install pandas numpy matplotlib seaborn
 ```
-Step 2: Run the script
+### Step 2: Run the script
 Open terminal in the project folder and run:
 ```bash
 python3 eda.py
