@@ -36,3 +36,29 @@ Open terminal in the project folder and run:
 ```bash
 python3 eda.py
 ```
+
+---
+
+## 📊 What the Program Does
+### The script performs the following:
+
+- Loads the dataset
+- Displays summary statistics
+- Shows missing values
+- Generates histograms
+- Creates boxplots for outlier detection
+- Displays correlation matrix
+- Shows pairplot for feature relationships
+
+
+---
+
+
+##📈 Output
+###The program will display:
+
+- Statistical summary in terminal
+- Graphs (histograms, boxplots, correlation heatmap, pairplot)
+
+These visualizations help in understanding the dataset.
+
