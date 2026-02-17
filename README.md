@@ -54,8 +54,8 @@ python3 eda.py
 ---
 
 
-##📈 Output
-###The program will display:
+## 📈 Output
+### The program will display:
 
 - Statistical summary in terminal
 - Graphs (histograms, boxplots, correlation heatmap, pairplot)
