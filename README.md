@@ -40,7 +40,8 @@ python3 eda.py
 ---
 
 ## 📊 What the Program Does
-### The script performs the following:
+
+The script performs the following:
 
 - Loads the dataset
 - Displays summary statistics
@@ -55,7 +56,8 @@ python3 eda.py
 
 
 ## 📈 Output
-### The program will display:
+
+The program will display:
 
 - Statistical summary in terminal
 - Graphs (histograms, boxplots, correlation heatmap, pairplot)
